@@ -59,7 +59,7 @@ fi
 if ! $tflag
 then
     echo "-t not specified, using /Querypal/Amplify/GitHubToken..." >&2
-    GITHUB_TOKEN="/Querypal/Amplify/GitHubToken"
+    GITHUB_TOKEN="/Querypal-aakash/Amplify/GitHubToken"
 fi
 if ! $aflag
 then
